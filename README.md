@@ -115,7 +115,7 @@ git clone https://github.com/PleasePrompto/notebooklm-skill notebooklm
 
 ```bash
 curl -o ~/.claude/skills/notebooklm/scripts/create_notebooks.py \
-  https://raw.githubusercontent.com/YOUR_USERNAME/anthropic-course-setup/main/create_notebooks.py
+  https://raw.githubusercontent.com/alanciani/anthropic-course-notebooks/main/create_notebooks.py
 ```
 
 ### 4. Authenticate with Google (one time)
