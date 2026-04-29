@@ -230,3 +230,7 @@ Once notebooks are created, ask Claude Code anything about the course content:
 > *"Ask my AI Fluency notebook: what is the 4D framework?"*
 
 Answers come directly from the video transcripts — grounded in the source material, not guessed.
+
+---
+
+Made by [@itsdrew.ai](https://instagram.com/itsdrew.ai)
