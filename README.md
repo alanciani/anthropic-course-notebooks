@@ -97,6 +97,81 @@ Full courses are available at [anthropic.skilljar.com](https://anthropic.skillja
 
 ---
 
+## Course URLs for Claude Code
+
+Copy and paste this entire block into Claude Code and say: *"Create a NotebookLM notebook for each of these courses"*
+
+```
+COURSE: Claude 101
+https://www.youtube.com/watch?v=VHsp6Hp7Stw
+https://www.youtube.com/watch?v=0vZ_UVLhSQQ
+https://www.youtube.com/watch?v=Zzn-g8lvLMA
+https://www.youtube.com/watch?v=GJ5jTgcbRHA
+https://www.youtube.com/watch?v=LpGpwhORWr0
+https://www.youtube.com/watch?v=_jjSS0qGFbI
+https://www.youtube.com/watch?v=R-KJgjIrh24
+https://www.youtube.com/watch?v=s-avRazvmLg
+
+COURSE: Claude Code 101
+https://www.youtube.com/watch?v=fl1DSmwQKKY
+https://www.youtube.com/watch?v=6bs5b4FltCU
+https://www.youtube.com/watch?v=0kILa02vKuI
+https://www.youtube.com/watch?v=gbetp6D7J_Q
+https://www.youtube.com/watch?v=xJQuF02NAK8
+https://www.youtube.com/watch?v=eW3oTyfeWZ0
+https://www.youtube.com/watch?v=RKsADl0ZC3Y
+https://www.youtube.com/watch?v=O0FGCxkHM-U
+https://www.youtube.com/watch?v=jKErNxuxPXg
+https://www.youtube.com/watch?v=bjdBVZa66oU
+https://www.youtube.com/watch?v=kkBFmwkDzdo
+https://www.youtube.com/watch?v=IkaPHiMDazM
+
+COURSE: Introduction to Claude Co-work
+https://www.youtube.com/watch?v=UAmKyyZ-b9E
+https://www.youtube.com/watch?v=bjdBVZa66oU
+https://www.youtube.com/watch?v=LpGpwhORWr0
+
+COURSE: AIFluency: Framework & Foundations
+https://www.youtube.com/watch?v=JpGtOfSgR-c
+https://www.youtube.com/watch?v=4szRHy_CT7s
+https://www.youtube.com/watch?v=W4Ua6XFfX9w
+https://www.youtube.com/watch?v=RyvXxApfHkk
+https://www.youtube.com/watch?v=W5cga7xipRI
+https://www.youtube.com/watch?v=EljzyfdYkrc
+https://www.youtube.com/watch?v=DmgujoZ1mmk
+https://www.youtube.com/watch?v=2YCaBqP8muw
+https://www.youtube.com/watch?v=Y0KidGr9Z2Y
+https://www.youtube.com/watch?v=QbLf2zb3oPc
+https://www.youtube.com/watch?v=ytEN_iAk09c
+
+COURSE: Introduction to Agent Skills
+https://www.youtube.com/watch?v=bjdBVZa66oU
+https://www.youtube.com/watch?v=Wx6_vjFFyHM
+https://www.youtube.com/watch?v=98KaK_rn5rQ
+https://www.youtube.com/watch?v=IgNN4v0BJdU
+https://www.youtube.com/watch?v=OCBi3eScNLk
+https://www.youtube.com/watch?v=YBa1cwaG7is
+
+COURSE: Introduction to Subagents
+https://www.youtube.com/watch?v=jKErNxuxPXg
+https://www.youtube.com/watch?v=arD6qEWa2Xc
+https://www.youtube.com/watch?v=WPxWKT_OaU4
+https://www.youtube.com/watch?v=n5LoKZ8Oa-A
+
+COURSE: AI Capabilities and Limitations
+https://www.youtube.com/watch?v=Sj1yynxA9hw
+https://www.youtube.com/watch?v=AiiiyYiEJa4
+https://www.youtube.com/watch?v=6jRk3nC4-xI
+https://www.youtube.com/watch?v=kl0gunXTvyk
+https://www.youtube.com/watch?v=iSLdQXeKbHs
+https://www.youtube.com/watch?v=QJjt4wF4iHM
+https://www.youtube.com/watch?v=M_RwSRmp220
+https://www.youtube.com/watch?v=SPkg5WRfnEE
+https://www.youtube.com/watch?v=F7ciHDKAlCA
+```
+
+---
+
 ## Setup
 
 ### 1. Install Claude Code
